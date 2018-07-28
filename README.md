@@ -1,6 +1,6 @@
 # Robot Controller Website
 
-The files enclosed provide the functionality to deploy a webserver using Flask which hosts a website that can execute python functions on the raspberry pi. This provides a more graphical user interface when controlling the car. This is built for QPi Education.
+The files enclosed provide the functionality to deploy a webserver using Flask which hosts a website that can execute python functions on the raspberry pi. This provides a more graphical user interface when controlling the car. This is built for QPi Education as a minimally viable feature.
 
 ## Prerequisites
 
@@ -55,4 +55,5 @@ in the terminal window. Wait a few seconds and a website url will pop up.
 Open up the web browser and navigate to the website.
 
 Voila.. You can now control the car with the buttons on the website. Remember to check if the batteries and everything is hooked up.
+
 # QPi_Edu-RobotCar
