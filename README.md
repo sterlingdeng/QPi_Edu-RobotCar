@@ -57,3 +57,8 @@ Open up the web browser and navigate to the website.
 Voila.. You can now control the car with the buttons on the website. Remember to check if the batteries and everything is hooked up.
 
 # QPi_Edu-RobotCar
+
+What I learned and Used
+>Super super basic shell script
+>jQuery keyboard events
+>basic python flask routing
