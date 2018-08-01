@@ -59,6 +59,9 @@ Voila.. You can now control the car with the buttons on the website. Remember to
 # QPi_Edu-RobotCar
 
 What I learned and Used
->Super super basic shell script
->jQuery keyboard events
->basic python flask routing
+
+Super super basic shell script
+
+jQuery keyboard events
+
+Basic python flask routing
